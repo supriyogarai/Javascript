@@ -1,3 +1,54 @@
 //comments can make code readable
 //Welcome to 30DaysOfJavaScript
 /*comments can make code readable, easy to reuse and informative*/
+
+let stringValue = "Hello, World!";
+let booleanValue = true;
+let undefinedValue;
+let nullValue = null;
+console.log("String Value:", stringValue);
+console.log("Boolean Value:", booleanValue);
+console.log("Undefined Value:", undefinedValue);
+console.log("Null Value:", nullValue);
+
+console.log("Type of stringValue:", typeof stringValue);
+console.log("Type of booleanValue:", typeof booleanValue);
+console.log("Type of undefinedValue:", typeof undefinedValue);
+console.log("Type of nullValue:", typeof nullValue);
+
+let variable1;
+let variable2;
+let variable3;
+let variable4;
+console.log("Variable 1:", variable1);
+console.log("Variable 2:", variable2);
+console.log("Variable 3:", variable3);
+console.log("Variable 4:", variable4);
+
+let variable1 = "Hello World";
+let variable2 = 2004;
+let variable3 = true;
+let variable4 = null;
+console.log("Variable 1:", variable1);
+console.log("Variable 2:", variable2);
+console.log("Variable 3:", variable3);
+console.log("Variable 4:", variable4);
+
+let firstName = "supriyo";
+let lastName = "garai";
+let maritalStatus = "Single";
+let country = "india";
+let age = 20;
+console.log("First Name:", firstName);
+console.log("Last Name:", lastName);
+console.log("Marital Status:", maritalStatus);
+console.log("Country:", country);
+console.log("Age:", age);
+
+let firstName = "John", lastName = "Doe", maritalStatus = "Single", country = "United States", age = 30;
+console.log(firstName , lastName , maritalStatus , country , age);
+
+ let myAge = 25;
+ let yourAge = 30;
+ console.log("My Age:", myAge);
+ console.log("Your Age:", yourAge);
