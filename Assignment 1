@@ -45,7 +45,7 @@ console.log("Marital Status:", maritalStatus);
 console.log("Country:", country);
 console.log("Age:", age);
 
-let firstName = "John", lastName = "Doe", maritalStatus = "Single", country = "United States", age = 30;
+let firstName = "supriyo", lastName = "garai", maritalStatus = "Single", country = "india", age = 20;
 console.log(firstName , lastName , maritalStatus , country , age);
 
  let myAge = 25;
